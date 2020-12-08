@@ -48,7 +48,7 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
-* **Chaeson B Smith** - *Initial work* - [GitHub](https://github.com/csmith446)
+* **Chaeson B Smith** - *Initial work* - [GitHub](https://github.com/chaesonsmith)
 
 See also the list of [contributors](https://github.com/csmith446/tab2midi/contributors) who participated in this project.
 
