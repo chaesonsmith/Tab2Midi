@@ -1,0 +1,43 @@
+Tab2Midi-Master/
+├── bin/
+├── data/
+│  ├── tabs/
+│  │   ├── simple_3,4_time.tab
+│  │   ├── simple_4,4_time.tab
+│  │   ├── simple_5,4_time.tab
+│  │   ├── simple_9,8_time.tab
+│  │   ├── simple_12,8_time.tab
+│  │   ├── simple_multi_test.tab
+│  │   └── simple_single_test.tab
+│  ├── note_int_values.png
+│  └── ticks_per_beat.png
+│
+├── tab2midi/
+│  ├── __main__.py
+│  ├── convert.py
+│  ├── tools/
+│  │   ├── __init__.py
+│  │   ├── midiwriter.py
+│  │   ├── tabparser.py
+│  │   └── utils.py
+│  │ 
+│  ├── types/
+│  │   ├── __init__.py
+│  │   ├── line.py
+│  │   ├── meta.py
+│  │   ├── staff.py
+│  │   └── tab.py
+│  │ 
+│  ├── logger/
+│  │   ├── __init__.py
+│  │   └── logger.py
+│  │ 
+├── tests/
+│  └── unit_tests.py
+│ 
+├── .gitignore
+├── contents.txt
+├── LICENSE
+├── README.md
+├── requirements.txt
+└── setup.py
