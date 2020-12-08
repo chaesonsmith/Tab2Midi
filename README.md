@@ -76,7 +76,7 @@ To view a copy of the GNU General Public License - see the [LICENSE](LICENSE) fi
 * [TabNabber](https://tabnabber.com/)
   * General idea for the Tab2Midi project
   * Helped in initial debugging of MIDI file creation
-  * Piano tab syntax used as a baseline for the [Tablature Language Syntax](https://github.com/csmith446/tablature-language-syntax)
+  * Piano tab syntax used as a baseline for the [Tablature Language Syntax](https://github.com/chaesonsmith/tablature-language-syntax)
 * [Mido](https://github.com/mido/mido/blob/stable/docs/index.rst) - MIDI Objects for Python
   * Documenation helped to understand MIDI files and how messages are written
   * Library extensively used in MIDI file creation in Tab2Midi
